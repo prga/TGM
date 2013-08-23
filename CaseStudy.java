@@ -2,6 +2,7 @@ public class CaseStudy{
 	
 	int x;
 	int z;
+	int y;
 	
 	public void a(){
 		

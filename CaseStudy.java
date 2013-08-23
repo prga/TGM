@@ -16,4 +16,9 @@ public class CaseStudy{
 		int q;
 	}
 	
+	public void c(){
+		
+		int r;
+	}
+	
 }

@@ -1,6 +1,7 @@
 public class CaseStudy{
 	
 	int x;
+	int y;
 	
 	public void a(){
 		

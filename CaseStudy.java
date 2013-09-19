@@ -33,7 +33,8 @@ public class CaseStudy{
 	
 	public void c(){
 		
-		int r;
+		int r = 0;
+		String c = "c: " + r;
 	}
 	
 	public void cme(){

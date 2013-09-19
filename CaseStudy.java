@@ -20,6 +20,11 @@ public class CaseStudy{
 		int meme = 89;
 	}
 	
+	public void mob(){
+		
+		String m = "mob";
+	}
+	
 	public void b(){
 		
 		int p;

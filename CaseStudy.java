@@ -26,6 +26,12 @@ public class CaseStudy{
 		int r;
 	}
 	
+	public void cme(){
+		
+		String m = "";
+		
+	}
+	
 	public int me(){
 		int aa = 1;
 		

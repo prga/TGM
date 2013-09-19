@@ -11,6 +11,10 @@ public class CaseStudy{
 		int n;
 	}
 	
+	public void mo(){
+		int meme = 89;
+	}
+	
 	public void b(){
 		
 		int p;

@@ -45,10 +45,12 @@ public class CaseStudy{
 	
 	public int me(){
 		int aa = 1;
+		int bb = 2;
 		
-		aa++;
+		aa = aa + bb;
 		
 		return aa;
 	}
+	
 	
 }

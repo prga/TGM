@@ -11,6 +11,11 @@ public class CaseStudy{
 		int n;
 	}
 	
+	public void amo(){
+		
+		String m = "amo";
+	}
+	
 	public void mo(){
 		int meme = 89;
 	}

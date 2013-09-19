@@ -26,4 +26,12 @@ public class CaseStudy{
 		int r;
 	}
 	
+	public int me(){
+		int aa = 1;
+		
+		aa++;
+		
+		return aa;
+	}
+	
 }

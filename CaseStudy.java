@@ -36,6 +36,11 @@ public class CaseStudy{
 		q = p +1;
 	}
 	
+	public void bc(){
+		int x;
+		x = 1;
+	}
+	
 	public void c(){
 		
 		int r = 0;

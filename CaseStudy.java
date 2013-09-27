@@ -30,6 +30,9 @@ public class CaseStudy{
 		
 		int p;
 		int q;
+		int r;
+		p = 0;
+		q = p +1;
 	}
 	
 	public void c(){

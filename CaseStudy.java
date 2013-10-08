@@ -3,7 +3,7 @@ public class CaseStudy{
 	int x;
 	int z;
 	int a;
-	int b;
+	int bb;
 	
 	public void a(){
 		

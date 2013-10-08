@@ -14,6 +14,9 @@ public class CaseStudy{
 	public void amo(){
 		
 		String m = "amo";
+		m = m + "oma";
+		int x = 1;
+		x = x + 1;
 		int z = 3;
 		String n = "ano";
 	}

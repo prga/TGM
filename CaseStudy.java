@@ -1,6 +1,6 @@
 public class CaseStudy{
 	
-	int x;
+	int aa;
 	int z;
 	int a;
 	int bb;

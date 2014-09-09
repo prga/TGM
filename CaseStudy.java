@@ -6,7 +6,8 @@ public class CaseStudy{
 	int bb;
 	
 	public void a(){
-		
+		int x;
+		int y;
 		int m;
 		int n;
 	}

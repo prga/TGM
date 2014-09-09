@@ -59,7 +59,8 @@ public class CaseStudy{
 	public int me(){
 		int aa = 1;
 		int bb = 2;
-		
+		int x;
+		int y;
 		aa = aa + bb;
 		
 		return aa;

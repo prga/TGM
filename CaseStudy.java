@@ -5,7 +5,7 @@ public class CaseStudy{
 	int a;
 	int bb;
 
-	String foo = "ano";
+	String foo = null;
 	
 	public void a(){
 		int x;

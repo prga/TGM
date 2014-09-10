@@ -4,7 +4,7 @@ public class CaseStudy{
 	int z;
 	int a;
 	int bb;
-	String foo = null;
+	String foo = "amo";
 	
 	public void a(){
 		int x;

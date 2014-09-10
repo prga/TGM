@@ -8,7 +8,7 @@ public class CaseStudy{
 	String foo = null;
 	
 	public void a(){
-		int x;
+		int a;
 		int y;
 		int m;
 		int n;

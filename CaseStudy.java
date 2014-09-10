@@ -5,10 +5,10 @@ public class CaseStudy{
 	int a;
 	int bb;
 
-	String foo = "ano";
+	String foo = null;
 	
 	public void a(){
-		int x;
+		int a;
 		int y;
 		int m;
 		int n;
@@ -71,8 +71,7 @@ public class CaseStudy{
 		int aa = 1;
 		int bb = 2;
 		int x;
-		int y;
-		aa = aa + bb;
+		int c;
 		
 		return aa;
 	}

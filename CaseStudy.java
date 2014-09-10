@@ -21,7 +21,6 @@ public class CaseStudy{
 		int x = 1;
 		x = x + 1;
 		int z = 3;
-		String n = "ano";
 	}
 	
 	public void mo(){

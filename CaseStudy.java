@@ -29,7 +29,11 @@ public class CaseStudy{
 	public void mob(){
 		
 		String m = "mob";
+
 		int y;
+
+		int x;
+
 	}
 	
 	public void b(){

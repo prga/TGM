@@ -10,6 +10,7 @@ public class CaseStudy{
 	public void a(){
 		int a;
 		int b;
+		int c;
 		int y;
 		int m;
 		int n;

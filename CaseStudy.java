@@ -4,7 +4,7 @@ public class CaseStudy{
 	int z;
 	int a;
 	int bb;
-
+	//adding ... u0000 and u07FF in order to test sed commands
 	String foo = null;
 	
 	public void a(){

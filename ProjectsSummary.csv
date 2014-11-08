@@ -1,0 +1,11 @@
+1 projects analyzed so far.
+Below you will find the list of analyzed projects and their conflict rate.
+TGM: 33.33%
+Total conflict rate: 33.33%
+Summary of conflict patterns found:
+DefaultValueAnnotation: 0
+ImplementList: 0
+ModifierList: 0
+LineBasedMCFd: 4
+SameSignatureCM: 0
+SameIdFd: 0

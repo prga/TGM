@@ -2,6 +2,7 @@ public class CaseStudy{
 	
 	int aa;
 	int z;
+	int c;
 	int a;
 	int bb;
 	//adding ... u0000 and u07FF in order to test sed commands

@@ -38,6 +38,8 @@ public class C {
 		int y;
 
 		int x;
+        
+        int z;
 
 	}
 	

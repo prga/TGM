@@ -10,12 +10,12 @@ public class CaseStudy{
 	String foo = null;
 	
 	public void a(){
-		int a;
+		int a2;
 		int b;
 		int c;
 		int y;
 		int m;
-		int n;
+		int n2;
 	}
 	
 	public void amo(){

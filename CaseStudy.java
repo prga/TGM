@@ -10,12 +10,20 @@ public class CaseStudy{
 	String foo = null;
 	
 	public void a(){
+
 		int a2;
+
+		int a1;
+
 		int b;
 		int c;
 		int y;
 		int m;
+
 		int n2;
+
+		int n1;
+
 	}
 	
 	public void amo(){

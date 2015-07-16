@@ -21,6 +21,7 @@ public class B {
 	public void amo(){
 		
 		String m = "amo";
+		int h = 9;
 		m = m + "oma";
 		int x = 1;
 		x = x + 1;

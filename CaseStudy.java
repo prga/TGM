@@ -87,6 +87,10 @@ public class CaseStudy{
 		
 		return aa;
 	}
+    
+    public CaseStudy(){
+        int x= 0;
+    }
 	
 	
 }

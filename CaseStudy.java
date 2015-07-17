@@ -9,6 +9,10 @@ public class CaseStudy{
 	//adding ... u0000 and u07FF in order to test sed commands
 	String foo = null;
 	
+	public CaseStudy(){
+		
+	}
+	
 	public void a(){
 
 		int a2;

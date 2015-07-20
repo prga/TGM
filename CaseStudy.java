@@ -15,7 +15,7 @@ public class CaseStudy{
 	
 	public void a(){
 
-		int a2;
+			int a2;
 
 		int a1;
 

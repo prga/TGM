@@ -17,6 +17,9 @@ public class CaseStudy{
 
 		int a3;
 
+			int a2;
+
+
 		int a1;
 
 		int b;

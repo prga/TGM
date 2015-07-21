@@ -1,4 +1,4 @@
-public class CaseStudy extends A{
+public class CaseStudy extends B{
 	
 	int aa;
 	int z;

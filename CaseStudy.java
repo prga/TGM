@@ -62,6 +62,8 @@ public class CaseStudy extends A {
 		
 		int p;
 		int q1;
+		int p1;
+
 		int r;
 		p = 0;
 		q = p +1;

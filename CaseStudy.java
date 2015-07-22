@@ -60,7 +60,7 @@ public class CaseStudy extends A {
 	
 	public void b(){
 		
-		int p;
+		int p1;
 		int q;
 		int r;
 		p = 0;

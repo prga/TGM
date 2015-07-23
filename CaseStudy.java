@@ -23,9 +23,8 @@ public class CaseStudy extends A {
 
 
 		int a1;
-
-		int b;
 		 int c;
+		 int b;
 		int y;
 		int m;
 

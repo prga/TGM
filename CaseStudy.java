@@ -3,6 +3,7 @@ public class CaseStudy extends A {
 
 	String test = "first part" +
         "second part";
+
 	int aa;
 	int z;
 	int c;

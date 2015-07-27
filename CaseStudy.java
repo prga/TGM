@@ -17,6 +17,10 @@ public class CaseStudy extends A {
 		
 	}
 	
+	void m(){
+		
+	}
+	
 	public void a(){
 
 		int a3;

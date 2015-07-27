@@ -104,5 +104,8 @@ public class CaseStudy extends A {
         int x= 0;
     }
 	
+    void m(){
+        
+    }
 	
 }

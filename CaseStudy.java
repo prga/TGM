@@ -39,7 +39,7 @@ public class CaseStudy extends A {
 		int n1;
 
 	}
-	
+
 	public void amo(){
 		
 		String m = "amo";
@@ -48,7 +48,7 @@ public class CaseStudy extends A {
 		x = x + 1;
 		int z = 3;
 	}
-	
+
 	public void mo(){
 		int meme = 89;
 	}

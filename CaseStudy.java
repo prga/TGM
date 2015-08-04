@@ -44,7 +44,7 @@ public class CaseStudy extends A {
 		
 		String m = "amo";
 		m = m + "oma";
-		int x = 1;
+		int x = 2;
 		x = x + 1;
 		int z = 3;
 	}

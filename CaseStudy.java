@@ -40,15 +40,6 @@ public class CaseStudy extends A {
 
 	}
 	
-	public void amo(){
-		
-		String m = "amo";
-		m = m + "oma";
-		int x = 1;
-		x = x + 1;
-		int z = 3;
-	}
-	
 	public void mo(){
 		int meme = 89;
 	}

@@ -111,5 +111,6 @@ public class CaseStudy extends A {
     void m(){
         
     }
+    void same(){}
 	
 }

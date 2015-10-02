@@ -112,5 +112,5 @@ public class CaseStudy extends A {
         
     }
     void same(){}
-	
+    //mamae
 }

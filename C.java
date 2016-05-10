@@ -20,8 +20,8 @@ public class C {
 	
 	public void amo(){
 		
-		String m = "amo";
-		m = m + "oma";
+		String m = "amoa";
+		m = m + "omao";
 		int x = 1;
 		x = x + 1;
 		int z = 3;
@@ -33,7 +33,7 @@ public class C {
 	
 	public void mob(){
 		
-		String m = "mob";
+		String m = "mob"   ;
 
 		int y;
 

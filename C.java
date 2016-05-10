@@ -25,6 +25,8 @@ public class C {
 		int x = 1;
 		x = x + 1;
 		int z = 3;
+		int i = 1;
+		//comment
 	}
 	
 	public void mo(){
@@ -39,7 +41,7 @@ public class C {
 
 		int x;
         
-        int z;
+        int w;
 
 	}
 	

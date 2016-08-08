@@ -1,5 +1,8 @@
 public class A {
 	
+	public
+	int a
+	= 2;
 	int aa;
 	int z;
 	int c;

@@ -2,7 +2,7 @@ public class A {
 	
 	private
 	int test
-	= 2;
+	= 1;
 	int aa;
 	int z;
 	int c;
@@ -10,7 +10,9 @@ public class A {
 	int a;
 	int bb;
 	//adding ... u0000 and u07FF in order to test sed commands
+
 	public String foo = null;
+
 	
 	public void a(){
 		int a;
@@ -19,11 +21,12 @@ public class A {
 		int y;
 		int m;
 		int n;
+		this.amo();
 	}
 	
 	public void amo(){
-		
-		String m = "amob";
+
+		String m = "amoa";
 		m = m + "oma";
 		int x = 1;
 		x = x + 1;
@@ -81,7 +84,7 @@ public class A {
 		int x;
 		int c;
 		
-		return aa;
+		return bb;
 	}
 	
 	

@@ -1,6 +1,6 @@
 public class A {
 	
-	public
+	private
 	int test
 	= 2;
 	int aa;
@@ -10,11 +10,11 @@ public class A {
 	int a;
 	int bb;
 	//adding ... u0000 and u07FF in order to test sed commands
-	String foo = null;
+	public String foo = null;
 	
 	public void a(){
 		int a;
-		int b;
+		int bc;
 		int c;
 		int y;
 		int m;
@@ -23,11 +23,11 @@ public class A {
 	
 	public void amo(){
 		
-		String m = "amo";
+		String m = "amob";
 		m = m + "oma";
 		int x = 1;
 		x = x + 1;
-		int z = 3;
+		int z = 2;
 	}
 	
 	public void mo(){
@@ -71,6 +71,7 @@ public class A {
 	public void cme(){
 		
 		String m = "";
+        this.me();
 		
 	}
 	

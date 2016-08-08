@@ -1,7 +1,7 @@
 public class A {
 	
 	public
-	int a
+	int test
 	= 2;
 	int aa;
 	int z;

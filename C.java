@@ -41,7 +41,7 @@ public class C {
 
 		int x;
         
-        int w;
+        int w2;
 
 	}
 	

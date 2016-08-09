@@ -31,11 +31,12 @@ public class C {
 	
 	public void mo(){
 		int meme = 89;
+		this.mob();
 	}
 	
 	public void mob(){
 		
-		String m = "mob"   ;
+		String m = "mobi"   ;
 
 		int y;
 

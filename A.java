@@ -1,4 +1,5 @@
- class A extends C{
+class A extends C{
+
 	
 	private
 	int test

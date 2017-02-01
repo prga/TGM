@@ -1,4 +1,4 @@
-public class A {
+ class A {
 	
 	private
 	int test

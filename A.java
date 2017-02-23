@@ -26,7 +26,7 @@ class A extends C{
 	}
 	
 	public void amo(){
-        //teste
+        //maisum
 		String m = "amoa";
 		m = m + "oma";
 		int x = 1;

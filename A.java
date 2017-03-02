@@ -84,10 +84,12 @@ class A extends C{
 		int aa = 1;
 		int bb = 2;
 		int x;
-		int c;
+		int c = 1;
 		
 		return bb;
 	}
-	
+    public void mama(){
+        int x = 256;
+    }
 	
 }

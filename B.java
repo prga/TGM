@@ -80,6 +80,8 @@ public class B {
 		
 		return aa;
 	}
-	
+    public int xexe(int x){
+        return x;
+    }
 	
 }

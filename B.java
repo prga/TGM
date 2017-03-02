@@ -20,7 +20,7 @@ public class B {
 	
 	public void amo(){
 		
-		String m = "amo";
+		String m = "amoa";
 		int h = 9;
 		m = m + "oma";
 		int x = 1;

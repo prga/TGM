@@ -80,8 +80,15 @@ public class B {
 		
 		return aa;
 	}
+
     public int xexe(int x){
         return x;
     }
+
+	
+	public void xaxa(){
+		int x = 1;
+	}
+
 	
 }

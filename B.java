@@ -81,5 +81,8 @@ public class B {
 		return aa;
 	}
 	
+	public void xaxa(){
+		int x = 1;
+	}
 	
 }

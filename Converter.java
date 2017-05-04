@@ -1,3 +1,3 @@
-interface Converter<F, T> {
+interface Converter<F, T, C> {
     T convert(F from);
 }

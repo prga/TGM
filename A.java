@@ -23,7 +23,7 @@ class A extends C{
 		int m;
 		int n;
 		this.amo();
-        String x = " x ";
+        String x = "xxx";
 	}
 	
 	public void amo(){

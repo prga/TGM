@@ -16,7 +16,7 @@ class A extends C{
 
 	
 	public void a(){
-		int a2;
+		int a2 = 2;
 		int bc;
 		int c;
 		int y;

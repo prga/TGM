@@ -13,7 +13,7 @@ class A extends C{
 	//adding ... u0000 and u07FF in order to test sed commands
     //teste
 	public String foo = null;
-
+	//haha
 	
 	public void a(){
 		int a2 = 2;

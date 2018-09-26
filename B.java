@@ -8,6 +8,7 @@ public class B {
 	int bb;
 	//adding ... u0000 and u07FF in order to test sed commands
 	String foo = null;
+	//comments2
 	
 	public void a(){
 		int a;

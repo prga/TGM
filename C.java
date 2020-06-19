@@ -6,7 +6,7 @@ public class C {
 	int b;
 	int a;
 	int bb;
-	//adding ... u0000 and u07FF in order to test sed command
+	//adding ... u0000 and u07FF in order to test sed command C
 	String foo = null;
 	
 	public void a(){

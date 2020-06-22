@@ -1,6 +1,10 @@
 class A extends C{
 
+
+	//A
+
 	//hehe
+
 	private
 	int test
 	= 1;

@@ -1,7 +1,6 @@
 class A extends C{
 
-	// C
-	// B
+	//A
 	private
 	int test
 	= 1;

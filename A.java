@@ -3,7 +3,7 @@ class A extends C{
 
 	//A
 
-	//hehe
+	//hehe riaira
 
 	private
 	int test
